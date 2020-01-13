@@ -6,9 +6,9 @@ graph = default_world.as_rdflib_graph()
 
 
 
-queries
+# queries
 
-1.1
+# 1.1
 q = sq.prepareQuery(
     """SELECT ?cn ?mn ?s (COUNT(*)AS ?tot) WHERE {
     ?c a tree:ClassDeclaration .
@@ -27,7 +27,7 @@ for row in graph.query(q):
     print(row.cn, ":", row.mn, ":", int(row.tot))
 sys.stdout.close()
 
-1.2
+# 1.2
 q = sq.prepareQuery(
     """SELECT ?cn ?on ?s (COUNT(*)AS ?tot) WHERE {
     ?c a tree:ClassDeclaration .
@@ -47,7 +47,7 @@ for row in graph.query(q):
     print(row.cn, ":", row.on, ":", int(row.tot))
 sys.stdout.close()
 
-2
+# 2
 
 q = sq.prepareQuery(
     """SELECT ?mn ?cn (COUNT(*)AS ?tot) WHERE {
@@ -68,7 +68,7 @@ for row in graph.query(q):
 sys.stdout.close()
 
 
-3.1
+# 3.1
 q = sq.prepareQuery(
     """SELECT ?cn ?mn ?s (COUNT(*)AS ?tot) WHERE {
     ?c a tree:ClassDeclaration .
@@ -88,7 +88,7 @@ for row in graph.query(q):
 sys.stdout.close()
 
 
-3.2
+# 3.2
 q = sq.prepareQuery(
     """SELECT ?cn ?on ?s (COUNT(*)AS ?tot) WHERE {
     ?c a tree:ClassDeclaration .
@@ -112,7 +112,7 @@ sys.stdout.close()
 
 
 
-4.1
+# 4.1
 q = sq.prepareQuery(
     """SELECT ?cn ?mn ?s (COUNT(*)AS ?tot) WHERE {
     ?c a tree:ClassDeclaration .
@@ -133,7 +133,7 @@ sys.stdout.close()
 
 
 
-4.2
+# 4.2
 q = sq.prepareQuery(
     """SELECT ?cn ?mn ?s (COUNT(*)AS ?tot) WHERE {
     ?c a tree:ClassDeclaration .
@@ -153,7 +153,7 @@ for row in graph.query(q):
 sys.stdout.close()
 
 
-5
+# 5
 q = sq.prepareQuery(
     """SELECT ?mn ?cn (COUNT(*)AS ?tot) WHERE {
     ?c a tree:ClassDeclaration .
