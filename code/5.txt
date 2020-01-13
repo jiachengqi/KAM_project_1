@@ -1,0 +1,8 @@
+PGNProvider : onCreate : 6
+DatabaseHelper : onCreate : 4
+ChessPuzzleProvider : onCreate : 6
+GameControl : loadDB : 63
+Valuation : setWeights4Test : 1
+JNI : newGame : 44
+Move : makeMove : 21
+Pos : fromString : 7

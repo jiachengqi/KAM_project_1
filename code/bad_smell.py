@@ -1,7 +1,7 @@
 from owlready2 import *
 import rdflib.plugins.sparql as sq
 
-onto = get_ontology("file:///Users/jq/Desktop/bad_smell/code/tree2.owl").load()
+onto = get_ontology("tree2.owl").load()
 graph = default_world.as_rdflib_graph()
 
 
@@ -40,7 +40,6 @@ q = sq.prepareQuery(
     } GROUP BY ?o""",
     initNs={"tree": "http://test.org/tree.owl#"}
 )
-print("Long constructor")
 sys.stdout = open("12.txt", "w")
 for row in graph.query(q):
 

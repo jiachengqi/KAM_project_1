@@ -1,5 +1,3 @@
-MethodWithSwitch
-
 PGNProvider : query : 1
 PGNProvider : getType : 1
 PGNProvider : delete : 1

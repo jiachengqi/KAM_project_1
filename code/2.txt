@@ -1,5 +1,3 @@
-large classes
-
 GameControl : 63
 JNI : 44
 Move : 21

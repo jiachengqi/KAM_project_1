@@ -1,5 +1,3 @@
-long method
-
 PGNProvider : insert : 31
 ChessPuzzleProvider : query : 25
 ChessPuzzleProvider : insert : 20

@@ -1,3 +1,0 @@
-DatabaseHelper : DatabaseHelper : 1
-DatabaseHelper : DatabaseHelper : 1
-PGNEntry : PGNEntry : 3
