@@ -1,0 +1,10 @@
+MethodWithSwitch
+
+PGNProvider : query : 1
+PGNProvider : getType : 1
+PGNProvider : delete : 1
+PGNProvider : update : 1
+ChessPuzzleProvider : query : 1
+ChessPuzzleProvider : getType : 1
+ChessPuzzleProvider : delete : 1
+ChessPuzzleProvider : update : 1

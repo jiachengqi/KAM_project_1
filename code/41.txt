@@ -1,0 +1,7 @@
+MethodWithLongParameterList
+
+
+PGNProvider : query : 5
+ChessPuzzleProvider : query : 5
+GameControl : addPGNEntry : 5
+JNI : setCastlingsEPAnd50 : 6

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ea3bf7a-957a-40b7-abdf-fb5231bb01d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dir/android-chess" />
+  </component>
+  <component name="ProjectId" id="1SHjAL7aWosiz18HMKnfX7pIXb8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code" />
+      <recent name="$PROJECT_DIR$/dir" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bad_smell">
+    <configuration name="bad_smell" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bad_smell" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../multi_lang/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/bad_smell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="indicid_creator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bad_smell" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/indicid_creator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="onto_creator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bad_smell" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/onto_creator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.indicid_creator" />
+      <item itemvalue="Python.bad_smell" />
+      <item itemvalue="Python.onto_creator" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ea3bf7a-957a-40b7-abdf-fb5231bb01d7" name="Default Changelist" comment="" />
+      <created>1571227270029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571227270029</updated>
+      <workItem from="1571227271119" duration="128000" />
+      <workItem from="1571227410926" duration="26426000" />
+      <workItem from="1571493862750" duration="13738000" />
+      <workItem from="1571819370167" duration="116000" />
+      <workItem from="1571819496855" duration="11001000" />
+      <workItem from="1571918809834" duration="4503000" />
+      <workItem from="1572458643466" duration="46000" />
+      <workItem from="1578066691760" duration="567000" />
+      <workItem from="1578067463049" duration="49633000" />
+      <workItem from="1578415669471" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578235158793">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578235158793" />
+    <state x="83" y="108" width="1480" height="846" key="DiffContextDialog" timestamp="1578229076212">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="83" y="108" width="1480" height="846" key="DiffContextDialog/-132.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1578229076212" />
+    <state x="83" y="129" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578073675043" />
+    <state width="1638" height="326" key="GridCell.Tab.0.bottom" timestamp="1578415636710">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="918" height="209" key="GridCell.Tab.0.bottom/-132.-1057.1920.1057/0.23.1680.1027@-132.-1057.1920.1057" timestamp="1578387263918" />
+    <state width="1638" height="209" key="GridCell.Tab.0.bottom/-132.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1578344158845" />
+    <state width="1878" height="177" key="GridCell.Tab.0.bottom/-132.-1080.1920.1080/0.0.1680.1050@-132.-1080.1920.1080" timestamp="1578215522088" />
+    <state width="1638" height="187" key="GridCell.Tab.0.bottom/-132.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1578228541129" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1578234857912" />
+    <state width="1638" height="326" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636710" />
+    <state width="1638" height="326" key="GridCell.Tab.0.center" timestamp="1578415636707">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="918" height="209" key="GridCell.Tab.0.center/-132.-1057.1920.1057/0.23.1680.1027@-132.-1057.1920.1057" timestamp="1578387263916" />
+    <state width="1638" height="209" key="GridCell.Tab.0.center/-132.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1578344158845" />
+    <state width="1878" height="177" key="GridCell.Tab.0.center/-132.-1080.1920.1080/0.0.1680.1050@-132.-1080.1920.1080" timestamp="1578215522087" />
+    <state width="1638" height="187" key="GridCell.Tab.0.center/-132.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1578228541127" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1578234857911" />
+    <state width="1638" height="326" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636707" />
+    <state width="1638" height="326" key="GridCell.Tab.0.left" timestamp="1578415636706">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="918" height="209" key="GridCell.Tab.0.left/-132.-1057.1920.1057/0.23.1680.1027@-132.-1057.1920.1057" timestamp="1578387263916" />
+    <state width="1638" height="209" key="GridCell.Tab.0.left/-132.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1578344158844" />
+    <state width="1878" height="177" key="GridCell.Tab.0.left/-132.-1080.1920.1080/0.0.1680.1050@-132.-1080.1920.1080" timestamp="1578215522087" />
+    <state width="1638" height="187" key="GridCell.Tab.0.left/-132.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1578228541126" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1578234857910" />
+    <state width="1638" height="326" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636706" />
+    <state width="1638" height="326" key="GridCell.Tab.0.right" timestamp="1578415636709">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="918" height="209" key="GridCell.Tab.0.right/-132.-1057.1920.1057/0.23.1680.1027@-132.-1057.1920.1057" timestamp="1578387263917" />
+    <state width="1638" height="209" key="GridCell.Tab.0.right/-132.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1578344158845" />
+    <state width="1878" height="177" key="GridCell.Tab.0.right/-132.-1080.1920.1080/0.0.1680.1050@-132.-1080.1920.1080" timestamp="1578215522088" />
+    <state width="1638" height="187" key="GridCell.Tab.0.right/-132.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1578228541128" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578234857911" />
+    <state width="1638" height="326" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636709" />
+    <state width="1638" height="326" key="GridCell.Tab.1.bottom" timestamp="1578415636711">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636711" />
+    <state width="1638" height="326" key="GridCell.Tab.1.center" timestamp="1578415636710">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636710" />
+    <state width="1638" height="326" key="GridCell.Tab.1.left" timestamp="1578415636710">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636710" />
+    <state width="1638" height="326" key="GridCell.Tab.1.right" timestamp="1578415636711">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578415636711" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1578134377737">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1578134377737" />
+    <state x="500" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1578415763093">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="500" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578415763093" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1578134103079">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1578134103079" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bad_smell$indicid_creator.coverage" NAME="indicid_creator Coverage Results" MODIFIED="1578234857904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/bad_smell$onto_creator.coverage" NAME="onto_creator Coverage Results" MODIFIED="1571918146616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/bad_smell$bad_smell.coverage" NAME="bad_smell Coverage Results" MODIFIED="1578344158837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>
